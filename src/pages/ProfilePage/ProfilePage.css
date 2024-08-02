@@ -1,0 +1,34 @@
+.WrapperHeaderProfile{
+    color: #000;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin: 4px 0;
+}
+
+.WrapperContentProfile{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    gap: 30px;
+}
+
+.WrapperLabelProfile{
+    color: #000;
+    font-size: 12px;
+    line-height: 30px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    width: 60px;
+    text-align: left;
+}
+
+.WrapperInputProfile{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}

@@ -1,0 +1,126 @@
+.ProductList {
+}
+
+.Payment {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.PaymentInfo {
+  width: 100%;
+  height: 75%;
+  background: #fff;
+}
+
+.buyButton {
+  width: 100%;
+  height: 25%;
+  background-color: bisque;
+  border-top: 3px solid #ede9e9;
+}
+
+.WrapperQuantityOrder {
+  display: flex;
+  align-items: center;
+  width: 90px;
+  border: 1px solid #ccc;
+  height: 35px;
+}
+
+.ProductListText {
+  color: #88888888;
+}
+
+.PaymentDetail {
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.PaymentMoney {
+  width: 100%;
+  height: 100px;
+  border-top: 1px solid #ede9e9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ChangePassword {
+}
+
+.ChangePassword:hover {
+  text-decoration: underline;
+}
+
+.ListContainer {
+  margin-top: 30px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  min-height: calc(100vh - 60px);
+}
+
+.Order {
+  width: 890px;
+  height: 300px;
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 10px 10px 5px 0px #b9b9b9bf;
+  flex-direction: column;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+}
+
+.OrderInfo {
+}
+
+.OrderInfoText {
+  font-size: 14px;
+}
+
+.OrderProduct {
+  width: 95%;
+  height: 100px;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.OrderButton {
+  width: 95%;
+  height: 55px;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  justify-content: end;
+  gap: 10px;
+}
+
+.ProductImg {
+  width: 12%;
+  height: 100%;
+}
+
+.ProductInfo {
+  width: 73%;
+  height: 100%;
+}
+
+.ProductPrice {
+  width: 15%;
+  height: 100%;
+}

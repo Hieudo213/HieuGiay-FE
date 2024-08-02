@@ -1,0 +1,27 @@
+.StyleNameProduct{
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: rgb(56, 56, 61);
+}
+
+.WrapperReportText{
+    font-size: 10px;
+    color: rgb(128,128,137);
+    display: flex;
+    align-items: center;
+    margin: 6px 0 0px;
+}
+
+.WrapperPriceText{
+    color: rgb(255,66,78) ;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.WrapperDiscountText{
+    color: #929292 ;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: line-through;
+}

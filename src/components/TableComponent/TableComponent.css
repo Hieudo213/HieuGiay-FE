@@ -1,0 +1,12 @@
+.table-cell {
+    white-space: normal;
+    word-wrap: break-word;
+    max-width: 200px; /* Adjust this value as needed */
+}
+
+#id-cell {
+    max-width: 50px; /* Adjust this value as needed */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

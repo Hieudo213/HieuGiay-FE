@@ -1,0 +1,28 @@
+.WrapperTypeProduct{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    justify-content: flex-start;
+    height: 44px;
+    font-size: 20px;
+    width: 100%;
+}
+
+
+
+
+
+.slick-next:before{
+    color: #9E9E9E;
+}
+
+.slick-prev:before{
+    color: #9E9E9E;
+}
+
+.WrapperButtonMore:hover{
+    color: #fff;
+    background-color: rgb(13,92,128);
+}
+
+

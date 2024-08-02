@@ -1,0 +1,21 @@
+.TypeProductText{
+    height: 100%;
+    width: 18%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.TypeProductText:hover{
+    background-color: #1a94ff;
+   
+}
+.TypeProductTextDetail{
+    color:#1a94ff ;
+    font-weight: 600;
+  
+}
+.TypeProductText:hover .TypeProductTextDetail{
+    color: #fff;
+}
